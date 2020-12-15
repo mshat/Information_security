@@ -1,0 +1,2 @@
+pyinstaller --onedir --onefile --name=installer "D:\me\university\ЗИ\лабы\my_lab1\installer\installer.py"
+pyinstaller --onedir --onefile --name=product "D:\me\university\ЗИ\лабы\my_lab1\prod\product.py"
